@@ -22,6 +22,6 @@ Minnesanteckningar Fidus Federationsråd 2023-01-18
 
 4. Nästa möte
 
-	18 januari 09.00
+	22 februari 09.00
 
 5. Avslut
