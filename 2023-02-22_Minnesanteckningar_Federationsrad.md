@@ -1,4 +1,4 @@
-Minnesanteckningar Fidus Federationsråd 2023-01-18
+Minnesanteckningar Fidus Federationsråd 2023-02-22
 
 ### Närvarande
 * Pål Axelsson, SWAMID
