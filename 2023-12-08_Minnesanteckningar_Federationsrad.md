@@ -22,7 +22,7 @@ Minnesanteckningar Fidus Federationsråd 2023-12-08
 
 2.  Fastställande av agenda
 
-> Dagordningen fastställdes
+    Dagordningen fastställdes
 
 3.  Övriga frågor
 
@@ -36,6 +36,6 @@ Minnesanteckningar Fidus Federationsråd 2023-12-08
 
 4.  Nästa möte
 
-> Federationsrådet kallas när behov uppstår.
+    Federationsrådet kallas när behov uppstår.
 
 5.  Avslut
