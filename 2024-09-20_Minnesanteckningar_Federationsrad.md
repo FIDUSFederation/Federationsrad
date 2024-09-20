@@ -53,6 +53,4 @@ Tjänster som finns i till FIDUS anslutna federationer propageras inte automatis
 
 ## Kontaktuppgifter hos tjänstens ägare vid anslutning till FIDUS
 
--   Namn: {Dorotea Blank}
-
 * __Kontaktuppgifter publiceras inte publikt__
