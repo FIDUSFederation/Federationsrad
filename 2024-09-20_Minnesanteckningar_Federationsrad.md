@@ -33,23 +33,23 @@ Tjänster som finns i till FIDUS anslutna federationer propageras inte automatis
 
 ## Tjänstens namn
 
-{Teknikåttan}
+Teknikåttan
 
 ## Tjänstens ägare
 
-{Chalmers tekniska högskola}
+Chalmers tekniska högskola
 
 ## Beskrivning av tjänsten
 
-{Teknikåttan är en nationell tävling i teknik, matematik och naturvetenskap och vänder sig till alla Sveriges elever i årskurs åtta. Tävlingen anordnas av tio svenska lärosäten och ger en inblick i pågående forskning, vardagsnära teknik samt presenterar nya perspektiv på naturvetenskapliga fenomen.Teknikåttan startar med en individuell quiz/frågetävling där elever svarar på frågor. Poängen räknas samman och ett klasresultat via ett medelvärde rankar de bästa klasserna}
+Teknikåttan är en nationell tävling i teknik, matematik och naturvetenskap och vänder sig till alla Sveriges elever i årskurs åtta. Tävlingen anordnas av tio svenska lärosäten och ger en inblick i pågående forskning, vardagsnära teknik samt presenterar nya perspektiv på naturvetenskapliga fenomen.Teknikåttan startar med en individuell quiz/frågetävling där elever svarar på frågor. Poängen räknas samman och ett klasresultat via ett medelvärde rankar de bästa klasserna.
 
 ## Syfte för anslutning till FIDUS
 
-{I syfte att underlätta för Sveriges alla högstadielärare att delta i Teknikåttan samt göra tjänsten tillgänglig via Inspera där lärare han logga in via en skoldederation.}
+I syfte att underlätta för Sveriges alla högstadielärare att delta i Teknikåttan samt göra tjänsten tillgänglig via Inspera där lärare han logga in via en skoldederation.
 
 ## Tjänstens målgrupp relaterat till FIDUS
 
-{Alla högstadielärare i Sverige. Både kommunala skolor och friskolor. Alla 10-11 lärosäten som samverkar i Teknikåttan.}
+Alla högstadielärare i Sverige. Både kommunala skolor och friskolor. Alla 10-11 lärosäten som samverkar i Teknikåttan.
 
 ## Kontaktuppgifter hos tjänstens ägare vid anslutning till FIDUS
 
